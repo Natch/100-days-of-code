@@ -1,19 +1,23 @@
 # 100 Days Of Code - 学習ログ
 
-### 0日目: 2016年2月28日
+## 1日目: 2018/11/23 Fri
 
-**今日の進捗**: 計算機アプリのCSSを修正して、canvasの機能に取り掛かった。
+### **今日の進捗**
+Railsチュートリアル  
+１章：ゼロからデプロイまで、２章：Toyアプリケーション
 
-**思ったこと** CSSにはとても苦労したけど、少しずつ上達してきてる気がする。Canvasはまだ始めたばっかりだけど、基本的な機能はいくつか理解できてきた。
+Rails Tutorial  
+Chapter1 : Deploy for the first time, Chapter2 : Toy_app
 
-**リンク** [計算機アプリ](http://www.example.com)
+### **思ったこと**
+scaffoldを用いた簡易なページ生成が非常に楽だった。  
+また、Heroku(本番環境)へのデプロイがただgit pushするだけなのが意外だった。
 
-### 1日目: 2016年6月27日（月）
+It's so easy to create pages with MVC architecture using scaffold,  
+to deploy source code into production using git push command as well.
 
-**今日の進捗**: FreeCodeCampの演習をたくさん進めた。
+### **リンク**
+[Chapter1](https://github.com/Natch/railstutorial_hello_app)
+[Chapter2](https://github.com/Natch/railstutorial_toy_app)
 
-**思ったこと** プログラミングを始めたばかりだから、何時間もかけてやっとアルゴリズムのチャレンジが解けるとめちゃくちゃ気持ちいい！
-
-**リンク**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+## 2日目: 2018/11/XX Y
