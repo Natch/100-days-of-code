@@ -20,4 +20,20 @@ to deploy source code into production using git push command as well.
 [Chapter1](https://github.com/Natch/railstutorial_hello_app)
 [Chapter2](https://github.com/Natch/railstutorial_toy_app)
 
-## 2日目: 2018/11/XX Y
+## 2日目: 2018/11/24 Sat
+### **今日の進捗**
+Railsチュートリアル  
+３章：ほぼ静的なページの作成
+
+Rails Tutorial  
+Chapter3 : create static pages
+
+### **思ったこと**
+MVC作成流れはcakeと同じ。しかしgenerateコマンドの点で便利。  
+テスト駆動開発はだいぶ疎かだったので、学びが大きい。
+
+Create Flow using rails is the same as cakePHP, but more useful in the terms of generate command existing.  
+I've learned a lot of TDD since testing is neglect previously.
+
+### **リンク**
+[Chapter3](https://github.com/Natch/railstutorial_sample_app)
