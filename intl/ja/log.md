@@ -77,3 +77,23 @@ that is, convenient.
 
 ### **リンク**
 [Chapter5](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 5日目: 2018/11/29 Thr
+### **今日の進捗**
+Railsチュートリアル  
+６章：ユーザーのモデルを作成する
+
+Rails Tutorial  
+Chapter6 : create user's model
+
+### **思ったこと**
+railsの規約に則ることで、パスワードのハッシュ化や  
+バリデーションを考慮したモデルの構築が簡単にできる。
+
+By following the rules of rails,  
+It is easy to construct a model that considered password hashing and validation.
+
+### **リンク**
+[Chapter6](https://github.com/Natch/railstutorial_sample_app)
