@@ -97,3 +97,21 @@ It is easy to construct a model that considered password hashing and validation.
 
 ### **リンク**
 [Chapter6](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 6日目: 2018/12/01 Sat
+### **今日の進捗**
+Railsチュートリアル  
+７章：ユーザー登録
+
+Rails Tutorial  
+Chapter7 : register users
+
+### **思ったこと**
+routes.rbファイルにresourcesを指定することで、RESTfulなルーティングをデフォルトで用意してくれる！
+
+Specifying resources in the routes.rb file can prepare RESTful routing for my app easily.
+
+### **リンク**
+[Chapter6](https://github.com/Natch/railstutorial_sample_app)
