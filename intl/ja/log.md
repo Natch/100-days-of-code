@@ -115,3 +115,23 @@ Specifying resources in the routes.rb file can prepare RESTful routing for my ap
 
 ### **リンク**
 [Chapter6](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 7日目: 2018/12/05 Wed
+### **今日の進捗**
+Railsチュートリアル  
+８章：基本的なログイン機能
+９章：発展的なログイン機能
+
+Rails Tutorial  
+Chapter8 : basic login function
+Chapter9 : advanced login function
+
+### **思ったこと**
+テストをどの程度作り込めばいいか判断が難しい
+
+It is difficult to judge how much the test should be built.
+
+### **リンク**
+[Chapter7,8](https://github.com/Natch/railstutorial_sample_app)
