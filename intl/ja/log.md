@@ -135,3 +135,22 @@ It is difficult to judge how much the test should be built.
 
 ### **リンク**
 [Chapter7,8](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 8日目: 2018/12/06 Thr
+### **今日の進捗**
+Railsチュートリアル  
+１０章：ユーザーの更新・表示・削除
+
+Rails Tutorial  
+Chapter10 : User update, disp, delete
+
+### **思ったこと**
+gem万能。ページネーションやダミーデータなども簡単にできる。
+
+Gem is versatile.  
+A function such as pagination and dummy data can be implemented easily using it.
+
+### **リンク**
+[Chapter10](https://github.com/Natch/railstutorial_sample_app)
