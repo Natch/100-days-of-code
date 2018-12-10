@@ -154,3 +154,21 @@ A function such as pagination and dummy data can be implemented easily using it.
 
 ### **リンク**
 [Chapter10](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 9日目: 2018/12/10 Mon
+### **今日の進捗**
+Railsチュートリアル  
+１１章：アカウントの有効化
+
+Rails Tutorial  
+Chapter11 : activate accounts
+
+### **思ったこと**
+メタプログラミングの一手法である動的ディスパッチによって、動的に呼び出すメソッドを指定できる。
+
+Dynamic dispatching a kind of metaprogramming allows me to specify methods to be called dynamically.
+
+### **リンク**
+[Chapter11](https://github.com/Natch/railstutorial_sample_app)
