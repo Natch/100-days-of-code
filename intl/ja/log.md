@@ -172,3 +172,21 @@ Dynamic dispatching a kind of metaprogramming allows me to specify methods to be
 
 ### **リンク**
 [Chapter11](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 10日目: 2018/12/12 Wed
+### **今日の進捗**
+Railsチュートリアル  
+１２章：パスワードの再設定
+
+Rails Tutorial  
+Chapter12 : Password reset
+
+### **思ったこと**
+ユーザに入力させる必要がないけど、ほしいという情報をビューに埋めるという手段を知った。（メールアドレスなど）
+
+I've learned the means that fill the view with the information we need but let a user enter it.
+
+### **リンク**
+[Chapter11](https://github.com/Natch/railstutorial_sample_app)
