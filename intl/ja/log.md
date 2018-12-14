@@ -189,14 +189,14 @@ Chapter12 : Password reset
 I've learned the means that fill the view with the information we need but let a user enter it.
 
 ### **リンク**
-[Chapter11](https://github.com/Natch/railstutorial_sample_app)
+[Chapter12](https://github.com/Natch/railstutorial_sample_app)
 
 
 
 ## 11日目: 2018/12/14 Fri
 ### **今日の進捗**
 Railsチュートリアル  
-１３章：ユーザーのマイクロソフト
+１３章：ユーザーのマイクロポスト
 
 Rails Tutorial  
 Chapter13 : user's microposts
@@ -207,4 +207,4 @@ Chapter13 : user's microposts
 Using the method chain allow us to retrieve the associated model group.
 
 ### **リンク**
-[Chapter11](https://github.com/Natch/railstutorial_sample_app)
+[Chapter13](https://github.com/Natch/railstutorial_sample_app)
