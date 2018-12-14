@@ -190,3 +190,21 @@ I've learned the means that fill the view with the information we need but let a
 
 ### **リンク**
 [Chapter11](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 11日目: 2018/12/14 Fri
+### **今日の進捗**
+Railsチュートリアル  
+１３章：ユーザーのマイクロソフト
+
+Rails Tutorial  
+Chapter13 : user's microposts
+
+### **思ったこと**
+メソッドチェーンを駆使して、関連付けられたモデル群を取り出すことができる。
+
+Using the method chain allow us to retrieve the associated model group.
+
+### **リンク**
+[Chapter11](https://github.com/Natch/railstutorial_sample_app)
