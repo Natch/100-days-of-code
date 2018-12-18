@@ -208,3 +208,23 @@ Using the method chain allow us to retrieve the associated model group.
 
 ### **リンク**
 [Chapter13](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 12日目: 2018/12/18 Tue
+### **今日の進捗**
+Railsチュートリアル  
+１４章：ユーザーをフォローする
+
+Rails Tutorial  
+Chapter14 : follow a user
+
+### **思ったこと**
+チュートリアル完走！  
+レールから外れた柔軟な実装手法も学ぶことができた。
+
+I've finally completed rails tutorial!  
+I also learned flexible methodology without predetermined rail.
+
+### **リンク**
+[Chapter14](https://github.com/Natch/railstutorial_sample_app)
