@@ -228,3 +228,23 @@ I also learned flexible methodology without predetermined rail.
 
 ### **リンク**
 [Chapter14](https://github.com/Natch/railstutorial_sample_app)
+
+
+
+## 13日目: 2019/01/01 Tue
+### **今日の進捗**
+Ruby on Rails 5 アプリケーションプログラミング
+５章：モデル開発
+
+Ruby on Rails 5 Application Programming
+Chapter05 : Model development
+
+### **思ったこと**
+想定するモデルが実際にありそうであったのと、  
+丁寧な図示によってアソシエーションの理解が深まった。
+
+The understanding of the model association deepened  
+thanks to the polite illustration and used model for learning was actually likely.
+
+### **リンク**
+[railbook](https://github.com/Natch/railbook)
