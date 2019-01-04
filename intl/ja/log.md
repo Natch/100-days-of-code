@@ -248,3 +248,23 @@ thanks to the polite illustration and used model for learning was actually likel
 
 ### **リンク**
 [railbook](https://github.com/Natch/railbook)
+
+
+
+## 14日目: 2019/01/04 Fri
+### **今日の進捗**
+Ruby on Rails 5 アプリケーションプログラミング
+６章：コントローラ開発
+
+Ruby on Rails 5 Application Programming
+Chapter06 : Controller development
+
+### **思ったこと**
+ログインや例外などの共通処理のテクニックがためになった。
+
+Techniques for common processing  
+such as login and exception was informative for me.
+
+
+### **リンク**
+[railbook](https://github.com/Natch/railbook)
