@@ -309,3 +309,26 @@ it seems that I need to stop it.
 
 ### **リンク**
 [railbook](https://github.com/Natch/railbook)
+
+
+
+## 17日目: 2019/01/10 Thr
+### **今日の進捗**
+Ruby on Rails 5 アプリケーションプログラミング  
+１０章：Railsの高度な機能
+
+Ruby on Rails 5 Application Programming  
+Chapter10 : Rails advanced function
+
+### **思ったこと**
+約７００ページのrails基礎本を読了🙌  
+非同期処理のモジュール(active_job)やキャッシュは、  
+やはり実際に運用しないと効果が実感できない。
+
+I Read about 700 pages of rails basic book.  
+Asynchronous processing module (active_job) and cache function  
+are not operated production environment, so I could not see the effect of it.
+
+
+### **リンク**
+[railbook](https://github.com/Natch/railbook)
