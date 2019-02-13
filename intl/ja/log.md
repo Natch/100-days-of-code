@@ -355,3 +355,25 @@ learning knowledge can be used on job scene.
 ### **リンク**
 [プロを目指す人のためのRuby入門](https://github.com/Natch/rubybook)  
 [現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
+
+
+
+## 19日目: 2019/02/14 Thr
+### **今日の進捗**
+「現場で使えるRuby on Rails5 速習実践ガイド」
+Chapter5  
+Rspec, Capybara, FactoryBotを用いたTask管理アプリケーションのシステムテスト  
+
+System test of Task management application using Rspec, Capybara, FactoryBot  
+
+### **思ったこと**
+まだ基礎レベルだが、RspecはMinitestよりも実装の仕方に柔軟性があり、より自然言語に近い記述ができて好きだ。  
+Capybaraと組み合わせたブラウザシミュレーションやDBのロールバックをテスト終了後にしてくれるのがよきかな。
+
+Although my skill level is basic, Rspec is more flexible than Minitest,  
+and it makes us possible to write description close to natural language like English.  
+
+It is good to do browser simulation combined with Capybara and rollback of DB after the test.  
+
+### **リンク**
+[現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
