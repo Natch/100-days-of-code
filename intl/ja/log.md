@@ -377,3 +377,22 @@ It is good to do browser simulation combined with Capybara and rollback of DB af
 
 ### **リンク**
 [現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
+
+
+
+## 20日目: 2019/02/17 Sun
+### **今日の進捗**
+「現場で使えるRuby on Rails5 速習実践ガイド」
+Chapter7  
+機能拡張：確認画面、検索機能、ソート機能、メール送信、ファイルアップロード、CSVインポート/エクスポート、ページネーション  
+
+Enhancements : Confirmation screen, search function, sort function, mail transmission, file upload, CSV import/export, pagination  
+
+### **思ったこと**
+ransack, csv, kaminariは有用なgemなので、覚えておく。
+
+'ransack', 'csv', and 'kaminari' are useful gems.  
+so I need to remember them.  
+
+### **リンク**
+[現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
