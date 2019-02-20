@@ -396,3 +396,29 @@ so I need to remember them.
 
 ### **リンク**
 [現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
+
+
+
+## 21日目: 2019/02/20 Wed
+### **今日の進捗**
+「現場で使えるRuby on Rails5 速習実践ガイド」
+Chapter8  
+Ajaxによるサーバ通信  
+
+Server communication by Ajax  
+
+### **思ったこと**
+クライアントのイベント実行の方法として、  
+Server-generated JavaScript Responses (SJR)によるAjax実装がある。  
+
+SJRはHTTPレスポンスボディにJSを渡すことで実現できてrubyコードをembedできるメリットがある一方で、共通管理がしづらい。  
+
+As a method of client event execution,  
+There is Ajax implementation method by Server - generated JavaScript Responses (SJR).  
+
+While SJR can be realized by passing JS to HTTP response body  
+and has merit that it can embed ruby code,  
+but it is hard to manage Javascript codes.  
+
+### **リンク**
+[現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
