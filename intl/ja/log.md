@@ -436,3 +436,6 @@ Chapter01-03: Model Specifications
 ### **思ったこと**
 describeとcontextはアウトライン化して文脈を解釈しやすくなるため、しっかり分けて記述したい。  
 itから始まるexampleの記述は英語のほうがコードの上では解釈がしやすい。  
+
+I'd like to separate out describe and context  
+that enables us to interprete codes easily by outlined.
