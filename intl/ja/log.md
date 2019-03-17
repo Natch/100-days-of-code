@@ -422,3 +422,17 @@ but it is hard to manage Javascript codes.
 
 ### **リンク**
 [現場で使えるRuby on Rails5 速習実践ガイド](https://github.com/Natch/taskleaf)
+
+
+
+## 22日目: 2019/03/17 Sun
+### **今日の進捗**
+Everyday Rails - RSpecによるRailsテスト入門
+Chapter01-03 : モデルスペック
+
+Everyday Rails - Introduction of Rails Testing with RSpec
+Chapter01-03: Model Specifications
+
+### **思ったこと**
+describeとcontextはアウトライン化して文脈を解釈しやすくなるため、しっかり分けて記述したい。  
+itから始まるexampleの記述は英語のほうがコードの上では解釈がしやすい。  
