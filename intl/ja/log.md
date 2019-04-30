@@ -438,4 +438,19 @@ describeとcontextはアウトライン化して文脈を解釈しやすくな�
 itから始まるexampleの記述は英語のほうがコードの上では解釈がしやすい。  
 
 I'd like to separate out describe and context  
-that enables us to interprete codes easily by outlined.
+that enables us to interprete codes easily by outlined.  
+
+
+
+## 23日目: 2019/04/30 Tue
+### **今日の進捗**
+Everyday Rails - RSpecによるRailsテスト入門
+Chapter04-05 : 意味のあるテストデータの作成、コントローラスペック
+
+Everyday Rails - Introduction of Rails Testing with RSpec
+Chapter04-05: Create meaningful test data, Controller Spec
+
+### **思ったこと**
+FactoryBotによるテストデータの作成においてDRYを保つためには、traitが有用だった。  
+
+The trait was useful for keeping DRY in creating test data with FactoryBot.  
