@@ -454,3 +454,19 @@ Chapter04-05: Create meaningful test data, Controller Spec
 FactoryBotによるテストデータの作成においてDRYを保つためには、traitが有用だった。  
 
 The trait was useful for keeping DRY in creating test data with FactoryBot.  
+
+
+
+## 24日目: 2019/05/02 Wed
+### **今日の進捗**
+Everyday Rails - RSpecによるRailsテスト入門
+Chapter06-07 : フィーチャスペック、リクエストスペック
+
+Everyday Rails - Introduction of Rails Testing with RSpec
+Chapter06-07: Feature Spec, Request Spec
+
+### **思ったこと**
+今後、APIの設計が重要課題となりそうなので、リクエストスペックは覚えておきたい。
+
+In the future, API design is going to be an important issue,  
+so I would like to remember the Request Spec.  
