@@ -470,3 +470,20 @@ Chapter06-07: Feature Spec, Request Spec
 
 In the future, API design is going to be an important issue,  
 so I would like to remember the Request Spec.  
+
+
+
+## 25日目: 2019/05/12 Sun
+### **今日の進捗**
+Everyday Rails - RSpecによるRailsテスト入門
+Chapter08-09 : スペックをDRYに保つ、早くテストを書き、早いテストを書く
+
+Everyday Rails - Introduction of Rails Testing with RSpec
+Chapter06-07: Keep Specs on DRY, Write a test fast, write a fast test
+
+### **思ったこと**
+DBの読み書きが多い場合や、メソッドの返却値が決まっている場合は、  
+テスト実行時間を早めるために、積極的にモックやスタブを使っていきたい。  
+
+In case that reading and writing to DB occured many times, or return values of any methods are already determined,  
+I'd like to use mocks and stubs positively to speed up the test for execution time.  
